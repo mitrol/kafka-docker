@@ -1,0 +1,4 @@
+kafka:
+  bootstrap-servers: dev-hm.mitrol.net:9092
+  topic:
+    kafka_docker_test: kafka_docker_test
