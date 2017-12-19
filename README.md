@@ -1,4 +1,4 @@
-# kafka-docker
+# kafka-docker-infra
 kafka docker infrastructure for MitCT
 
 ## Docker + Kafka on Windows
